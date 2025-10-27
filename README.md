@@ -24,7 +24,7 @@ Welcome to my **IT Infrastructure Portfolio**, a collection of projects demonstr
 Four branch offices connected using static routing end-to-end; IP addressing and subnetting; validation with `show ip route` and `ping` tests. Configured multi-site static routing and default gateways; achieved 100% connectivity verified through ICMP tests and routing tables. Documented topology, subnet masks, gateways, and identified/corrected failure points.  
 
 **Evidence / Link:**
-[Drive link](https://drive.google.com/file/d/1RZ8Ov3vZDY_3PCK38dX8iDIbSuHVqtj8/view?usp=sharing)
+[Drive link](https://drive.google.com/file/d/1RZ8Ov3vZDY_3PCK38dX8iDIbSuHVqtj8/preview)
 
 
 
@@ -47,7 +47,7 @@ Deployed a cloud-based web infrastructure for DigiTech using AWS. Project includ
 - Created architecture diagram & documentation  
 
 **Evidence / Link:**  
-[PDF & Screenshots](https://drive.google.com/file/d/1CBl7_MD7yTS1zjj8pXAw8xe2K46XSdZt/view?usp=drive_link)  
+[PDF & Screenshots](https://drive.google.com/file/d/1CBl7_MD7yTS1zjj8pXAw8xe2K46XSdZt/preview)  
 
 
 
@@ -70,7 +70,7 @@ Simulated a Linux-based client–server network using VirtualBox with two Ubuntu
 - Optional: Samba file sharing and DHCP server configuration  
 
 **Evidence / Link:**  
-[PDF & Screenshots](https://drive.google.com/file/d/1zl7VjZhvqkcNDjDjMj-3KsLx8Qs8qTaF/view?usp=sharing)  
+[PDF & Screenshots](https://drive.google.com/file/d/1zl7VjZhvqkcNDjDjMj-3KsLx8Qs8qTaF/preview)  
 
 ----
 
