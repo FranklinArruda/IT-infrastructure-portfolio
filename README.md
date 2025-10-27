@@ -16,18 +16,16 @@ Welcome to my **IT Infrastructure Portfolio**, a collection of projects demonstr
 
 # Networking Infrastructure
 
-### Static Routing & Multi-Site LAN 
-**Grade:** 68/100  
+### Static Routing & Multi-Site LAN  
 <img width="386" height="226" alt="WirelessNetworking StaticRouting" src="https://github.com/user-attachments/assets/1ddfa98e-08fa-4374-b81c-0885c6184ebb" />
 
 **Short Summary:**  
 Four branch offices connected using static routing end-to-end; IP addressing and subnetting; validation with `show ip route` and `ping` tests. Configured multi-site static routing and default gateways; achieved 100% connectivity verified through ICMP tests and routing tables. Documented topology, subnet masks, gateways, and identified/corrected failure points.  
 
-**Evidence / Link:**
-[Drive link](https://drive.google.com/file/d/1RZ8Ov3vZDY_3PCK38dX8iDIbSuHVqtj8/preview)
+**Evidence / Packet Tracer File:**  
+[Download .pkt File](https://drive.google.com/file/d/1RZ8Ov3vZDY_3PCK38dX8iDIbSuHVqtj8/view?usp=drive_link)  
 
-
-
+*Note: To open this file, Cisco Packet Tracer must be installed.*
 
 
 
@@ -35,7 +33,6 @@ Four branch offices connected using static routing end-to-end; IP addressing and
 # Cloud Services
 
 ### AWS Cloud Website Deployment, Load Balancing & Auto Scaling
-**Grade:** 74 / 100  
 
 **Summary:**  
 Deployed a cloud-based web infrastructure for DigiTech using AWS. Project included VPC setup with public/private subnets, Auto Scaling, Load Balancing, and EC2 web hosting. Focused on high availability, scalability, and monitoring.  
@@ -57,7 +54,6 @@ Deployed a cloud-based web infrastructure for DigiTech using AWS. Project includ
 
 ### Virtualized Linux Network – Web Server, SSH, Firewall & Netplan
 **Module:** Linux Networking / Cloud & Infrastructure  
-**Grade:** 75 / 100  
 
 **Summary:**  
 Simulated a Linux-based client–server network using VirtualBox with two Ubuntu VMs. Configured Apache web server, SSH access, static IPs with Netplan, hostnames, UFW firewall rules, and basic network monitoring. Optional tasks included Samba file sharing and DHCP setup.  
